@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/help"
+        android:title="帮助"></item>
+
+    <item
+        android:id="@+id/binary"
+        android:title="进制转化"></item>
+    <item
+        android:id="@+id/unit"
+        android:title="单位转化"></item>
+</menu>
